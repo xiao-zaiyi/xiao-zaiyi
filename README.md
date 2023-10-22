@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on opensource and group projects.
 
 ### Github Overview
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1932794922&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1932794922)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="xiaozaiyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1932794922&show_icons=true&theme=midnight-purple" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1932794922&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <h3 align="left">Languages and Tools:</h3>

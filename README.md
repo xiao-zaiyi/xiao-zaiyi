@@ -48,12 +48,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiao-zaiyi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao-zaiyi&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiao-zaiyi&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xiao-zaiyi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&bg_color=0d1117" alt="xiao-zaiyi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao-zaiyi&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117" alt="xiao-zaiyi's Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiao-zaiyi&theme=dark&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=7C3AED&sideLabels=7C3AED&currStreakLabel=7C3AED" alt="xiao-zaiyi's GitHub Streak" />
 </div>
 
 ---

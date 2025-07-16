@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *" # 每天午夜运行
   workflow_dispatch:
 
+# --- 添加这部分来授予写入权限 ---
+permissions:
+  contents: write
+# --------------------------------
+
 jobs:
   build:
     runs-on: ubuntu-latest
